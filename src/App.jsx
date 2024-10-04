@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Header from "./component/Header"
 import Home from "./component/Home"
 import Main from "./component/Main"
-import Err from "./component/err"
+import Err from "./component/Err"
 import Super from "./component/Super"
 function App() {
   
